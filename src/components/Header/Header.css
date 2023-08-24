@@ -1,0 +1,8 @@
+header {
+  height: 13vh;
+  width: 100vw;
+  background-color: #6a00ff;
+  border-bottom: 0.1vh solid #4800ff;
+  text-align: center;
+  color: #fff;
+}
